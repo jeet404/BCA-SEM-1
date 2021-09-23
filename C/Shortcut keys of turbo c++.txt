@@ -1,0 +1,16 @@
+Alt	+	F9	?	Compile
+Ctrl	+	F9	?	Run
+Alt	+	F5	?	Output window
+Alt	+	F3	?	Close
+Alt	+	X	?	Exit
+F2			?	Save
+F3			?	Open
+F5			?	Full Screen
+F6			?	Switch to Next Open Window
+Alt+Backspace		?	Undo
+Alt+Shift +Backspace	?	Redo
+Shift	+	Del	?	Cut
+Ctrl	+	Insert	?	Copy
+Shift	+	Insert	?	Paste
+Ctrl	+	Del	?	Delete selected text
+Ctrl	+	y	?	Delete current line

@@ -1,0 +1,23 @@
+ENIAC 	:- Electronic Numerical Integrator and Computer.
+EDVAC 	:- Electronic Discrete Variable Automatic Computer.
+UNIVAC	:- Universal Automatic Computer.
+IBM   	:- International Business Machines
+SSI	:- Small-Scale Integration 
+MSI	:- Medium-Scale Integration
+LSI	:- Large Scale Integration
+VLSI	:- Very Large Scale Integration	
+ULSI	:- Ultra-Large Scale Integration
+VDU	:- Visual Display Unit
+CRT	:- Cathode-ray tube
+LCD	:- Liquid Crystal Display
+LED	:- Light-emitting diode
+ALU	:- Arithmetic logic unit
+CPU	:- Central processing unit
+RAM	:- Random-access memory
+ROM	:- Read-only memory
+AI	:- Artificial intelligence
+DMP	:- Dot Matrix Printer
+LPM	:- line Per Minute
+CPS	:- Character Per Second
+CIS	:- 
+CCD	:-

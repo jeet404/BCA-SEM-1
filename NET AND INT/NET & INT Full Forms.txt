@@ -1,0 +1,6 @@
+1.TCP-Transsimision Control Protocol
+2.IP-Internet Protocol
+3.HTTP-Hyper Text Transfer Protocol
+4.FTP-File Transfer Protocol
+5.SMTP-Simple Male Transfer Protocol
+6.POP3-Post Office Protocol 3

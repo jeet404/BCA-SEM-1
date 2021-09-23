@@ -1,0 +1,13 @@
+1) menu driven : take value for integer A and B and then take SIGN like + - * /  , also take 1 for continue and 0 for exit,
+  if user enter 1 then again it will ask for A , B and sign , if user enter 0 then program will be terminated
+
+2) Ask user for to enter month number and display month name , 1 - January, ... also take 1 for continue and 0 for exit,
+  if user enter 1 then again it will ask for month number , if user enter 0 then program will be terminated
+
+3) Ask user for to enter Roll No, Name , Marks of Funda , C and HTML and calculate marksheet with pass or fail,also take 1 for continue and 0 for exit,
+  if user enter 1 then again it will ask for above input , if user enter 0 then program will be terminated
+
+4) Ask user for to enter 5 values in interger Array and take 1 Extra value for search in integer variable and check your searched
+   value is exist in Array if yes then Display VALUE FOUND , If not Then display NOT FOUND
+
+5) Ask user for to enter 1 Integer value and display it's table.
